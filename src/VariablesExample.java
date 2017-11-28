@@ -5,7 +5,7 @@ public class VariablesExample {
 
     public static void main(String[] args) {
 
-        int itemsSold = 04;
+        int itemsSold = 07;
         System.out.println("itemsSold = " + itemsSold);
 
         double salary = 1.234e3;
