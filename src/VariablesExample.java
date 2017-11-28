@@ -23,7 +23,7 @@ public class VariablesExample {
         new VariablesExample().javaMethod();
     }
 
-    public void javaMethod() {
+    private void javaMethod() {
         long simpleVar = 1_000_000_000_000L;
         System.out.println("simpleVar = " + simpleVar);
 
